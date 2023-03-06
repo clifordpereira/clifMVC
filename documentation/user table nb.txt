@@ -1,0 +1,2 @@
+size of password field in database should be large enough (250) to hold md5(password)
+registered_on date should be set in database itself
